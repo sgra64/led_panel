@@ -1,0 +1,6 @@
+*.pro.user
+*.bak
+*.tar
+tmp
+build
+.DS_Store
